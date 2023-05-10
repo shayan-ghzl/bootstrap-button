@@ -1,4 +1,4 @@
-# bootstrap-button
+# bootstrap-button (for customization porpuse)
 bootstrap button scss include functions variables and mixin
 
 ## Variables
